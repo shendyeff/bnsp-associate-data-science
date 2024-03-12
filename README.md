@@ -69,6 +69,8 @@ plt.show()
 
 ```
 
+![](https://github.com/shendyeff/bnsp-associate-data-science/blob/main/assets/diabetes-heatmap.png)
+
 ## 5. Outlier Detection and Handling
 
 We detected and handled outliers in the dataset using methods such as Z-Score and IQR to ensure data quality before training the model.
