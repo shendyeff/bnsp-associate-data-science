@@ -70,6 +70,7 @@ plt.show()
 ```
 
 ![](https://github.com/shendyeff/bnsp-associate-data-science/blob/main/assets/diabetes-heatmap.png)
+![](https://github.com/shendyeff/bnsp-associate-data-science/blob/main/assets/diabetes-histogram.png)
 
 ## 5. Outlier Detection and Handling
 
@@ -95,6 +96,14 @@ plt.show()
 # (Kode untuk penanganan outlier tidak disertakan di sini untuk ringkasnya)
 
 ```
+
+### **Outliers Detected**
+![](https://github.com/shendyeff/bnsp-associate-data-science/blob/main/assets/outliers.png)
+
+
+### **After Handling Outliers**
+![](https://github.com/shendyeff/bnsp-associate-data-science/blob/main/assets/after-outliers-handling.png)
+
 
 ## 6. Data Splitting and Preparation
 
